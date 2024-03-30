@@ -1,4 +1,4 @@
-# DEMO - Dockerfile Alpine for ASP.NET Core
+# Dockerfile Alpine for ASP.NET Core
 
 
 ## How can enable the Globalization in the Alpine Linux
